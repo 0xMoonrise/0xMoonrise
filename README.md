@@ -1,3 +1,4 @@
 # $ whoami
 
-Hi, I'm Carlos, just an IT guy.
+Hi, I'm Carlos, just a web dude.
+The website is down.
